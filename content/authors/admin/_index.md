@@ -28,15 +28,18 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: UCLA
+      year: ""
+    - course: Msc in Electrical Engineering
+      institution: UCLA
+      year: ""
+    - course: BENG in Electrical Engineering
+      institution: the Hong Kong Polytechnic University
+      year: ""
+    - course: BBA in Management
+      institution: the Hong Kong Polytechnic University
+      year: ""
 superuser: true
 highlight_name: false
 title: Danfeng(Lyle) Guo
