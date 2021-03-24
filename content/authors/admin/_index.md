@@ -1,7 +1,8 @@
 ---
 role: PhD in Computer Science, UCLA
-avatar_filename: wechatimg22.jpeg
-bio: My research interests include deep-learning-based medical image analysis and natural language processing
+avatar_filename: avatar.jpeg
+bio: My research interests include deep-learning-based medical image analysis
+  and natural language processing
 interests:
   - Medical Image Analysis
   - Natural Language Processing
