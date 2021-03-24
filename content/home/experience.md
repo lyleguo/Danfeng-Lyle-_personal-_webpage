@@ -38,7 +38,7 @@ experience:
         * Encoded CT imaging and combined them with clinical data to predict the likelihood of hemorrhage expansion. Gained 80% accuracy.
         * Studied different kinds of attention mechanisms including self attention and grad attention. Applied them to increase model accuracy or directly generate segmentation result
         * Conducted medical image processing tasks such as volume reslicing, registration, denoising, labeling, skull stripping and DICOM information analysis.
-   - title: Research Assistant
+  - title: Research Assistant
     company: UCLA Neurovascular Imaging Research Core
     company_url: "https://www.keyamedical.com/curacloud/"
     location: Los Angeles, CA, USA
