@@ -12,7 +12,7 @@ experience:
     location: Los Angeles, CA, USA
     date_start: 2020-01-01
     date_end: ""
-    description: |-2
+    description:
         * Explored existing approaches to tackle the anisotropy problem of 3D medical images. Designed transformer- based models that outperformed previous methods and achieved over 0.81 dice score on lung cancer segmentation task.
   - title: Algorithm Intern
     company: Keya Medical
@@ -20,7 +20,7 @@ experience:
     location: Beijing, China
     date_start: 2020-07-15
     date_end: 2020-10-20
-    description: |-2
+    description:
         Computer-aided diagnosis of brain hemorrhage
         * Conducted rib fracture detection task and achieved over 81% accuracy.
         * Improved lung segmentation algorithm and successfully removed the disturbance of abnormal regions.
@@ -30,7 +30,7 @@ experience:
     location: Beijing, China
     date_start: 2018-05-10
     date_end: 2019-12-25
-    description: |-2
+    description:
         Computer-aided diagnosis of brain hemorrhage
         * Intracranial hemorrhage detection using CNN-RNN network. Achieved patient-level accuracy over 95%
         * Design multi-task model for simultaneous ICH classification and segmentation with accuracy over 90%
@@ -44,7 +44,7 @@ experience:
     location: Los Angeles, CA, USA
     date_start: 2017-03-25
     date_end: 2018-04-30
-    description: |-2
+    description:
         Research on statistically important factors related to hemorrhagic transformation
         * Processed MRI database of stroke patients. Extracted features related to stroke and computed the corresponding medical parameters.
         * Designed statistical models to analyze patients’ MRI and predicted the likelihood of hemorrhage trans- formation.
