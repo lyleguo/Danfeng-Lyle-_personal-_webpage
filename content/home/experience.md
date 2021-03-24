@@ -12,7 +12,7 @@ experience:
     location: Los Angeles, CA, USA
     date_start: 2020-01-01
     date_end: ""
-    description:
+    description: |-2
         * Explored existing approaches to tackle the anisotropy problem of 3D medical images. Designed transformer- based models that outperformed previous methods and achieved over 0.81 dice score on lung cancer segmentation task.
   - title: Algorithm Intern
     company: Keya Medical
