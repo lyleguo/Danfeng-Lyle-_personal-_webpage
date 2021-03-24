@@ -22,10 +22,10 @@ organizations:
 education:
   courses:
     - course: PhD in Computer Science
-      institution: UCLA
+      institution: University of California, Los Angeles
       year: ""
     - course: Msc in Electrical Engineering
-      institution: UCLA
+      institution: University of California, Los Angeles
       year: ""
     - course: BENG in Electrical Engineering
       institution: the Hong Kong Polytechnic University
