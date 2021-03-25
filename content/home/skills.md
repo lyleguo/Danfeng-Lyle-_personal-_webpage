@@ -10,7 +10,7 @@ headless: true
 weight: 110
 
 # Section title
-title: Skills
+title: Skills & Interests
 
 # Section subtitle
 subtitle:
@@ -25,4 +25,10 @@ design:
     text_color_light: true
 ---
 
-Add any content to the body of the section here.
+Skills: |-2
+  * Excellent in Python and MATLAB. Also have experience in R, SQL, JAVA, C, LISP, OCAML, PROLOG, HTML&CSS
+  * Deep learning libraries including PyTorch and Tensorflow
+  * Other tools: 3DSlicer, COMSOL, Solidwork
+  * Korean(medium), Japanese(beginner)
+Interests: |-2
+  * 한국 드라마 과 음악 을 너무 좋아요!
