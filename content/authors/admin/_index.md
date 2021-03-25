@@ -38,7 +38,6 @@ highlight_name: false
 title: Danfeng(Lyle) Guo
 email: ""
 ---
+I am is a PhD student at Department of Computer Science, UCLA. I am a member at UCLA Computer Graphics & Vision Laboratory, supervised by Dr. Demetri Terzopoulos. My research interests include deep-learning based medical image analysis and natural language processing. 
 
-Danfeng Guo is a PhD student at Department of Computer Science, UCLA. His research interests include deep-learning based medical image analysis and natural language processing. He is a member at UCLA Computer Graphics & Vision Laboratory, supervised by Dr. Demetri Terzopoulos.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/Resume210325.pdf" "newtab" >}}resumé{{< /staticref >}}.
