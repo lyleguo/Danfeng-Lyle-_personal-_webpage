@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: Teaching
-    url: 'teaching／index.md'
+    url: 'teaching/index.md'
     weight: 40
   - name: Contact
     url: '#contact'
