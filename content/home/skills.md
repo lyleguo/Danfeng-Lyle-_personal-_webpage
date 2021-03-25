@@ -30,5 +30,8 @@ Skills: |-2
   * Deep learning libraries including PyTorch and Tensorflow
   * Other tools: 3DSlicer, COMSOL, Solidwork
   * Korean(medium), Japanese(beginner)
+
+
 Interests: |-2
+  * Traveling, movie, music, computer games, politics, classical Chinese literatures
   * 한국 드라마 과 음악 을 너무 좋아요!
