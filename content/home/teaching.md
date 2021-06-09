@@ -10,4 +10,9 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+experience:
+  - title: Teaching Assistant
+    company: UCLA Dept. of Computer Science
+    course: CS161 Artificial Intelligence
+    quarter: Spring2021
 ---
