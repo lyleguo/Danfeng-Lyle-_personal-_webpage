@@ -1,6 +1,7 @@
 ---
 widget: experience
 widget_id: experience
+date_format: Jan 2006
 headless: true
 weight: 100
 title: Teaching
