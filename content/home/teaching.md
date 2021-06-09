@@ -8,18 +8,18 @@ date_format: Jan 2006
 experience:
   - title: Teaching Assistant
     company: UCLA Computer Graphics & Vision Lab
-    company_url: ""
+    company_url: "http://gravilab.cs.ucla.edu"
     location: Los Angeles, CA, USA
     date_start: Spring21
     date_end: ""
-    description: ""
+    description: 123
         
   - title: Teaching Assistant
     company: Keya Medical
-    company_url: ""
+    company_url: "http://gravilab.cs.ucla.edu"
     location: Beijing, China
     date_start: Winter21
     date_end: ""
-    description: ""
+    description: 123
 widget_id: experience
 ---
