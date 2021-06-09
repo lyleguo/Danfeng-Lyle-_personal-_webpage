@@ -13,6 +13,9 @@ design:
 experience:
   - title: Teaching Assistant
     company: CS161 Artificial Intelligence
+    company_url:
     location: UCLA Dept. of Computer Science
     date_start: Spring2021
+    date_end:
+    description:
 ---
