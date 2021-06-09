@@ -1,6 +1,5 @@
 ---
 widget: experience
-widget_id: experience
 headless: true
 weight: 100
 title: Teaching
@@ -14,4 +13,5 @@ experience:
     date_start: Spring2021
     date_end:
     description:
+widget_id: experience
 ---
