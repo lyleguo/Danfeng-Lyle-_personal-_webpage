@@ -1,8 +1,9 @@
 ---
-widget: Teaching
-widget_id: Teaching
+widget: teaching
+widget_id: teaching
 headless: true
-weight: 10
+weight: 100
+title: Teaching
 active: true
 design:
   columns: "2"
