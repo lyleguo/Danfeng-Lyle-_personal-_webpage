@@ -8,6 +8,7 @@ date_format: Jan 2006
 experience:
   - title: Teaching Assistant
     company: UCLA Computer Graphics & Vision Lab
+    company_url: ""
     location: Los Angeles, CA, USA
     date_start: Spring21
     date_end: ""
@@ -15,6 +16,7 @@ experience:
         
   - title: Teaching Assistant
     company: Keya Medical
+    company_url: ""
     location: Beijing, China
     date_start: Winter21
     date_end: ""
