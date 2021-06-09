@@ -4,7 +4,6 @@ headless: true
 weight: 100
 title: Teaching
 subtitle: null
-date_format: Jan 2006
 experience:
   - title: Teaching Assistant
     company: UCLA Computer Graphics & Vision Lab
