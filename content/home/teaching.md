@@ -1,5 +1,5 @@
 ---
-widget: teaching
+widget: experience
 widget_id: teaching
 headless: true
 weight: 100
