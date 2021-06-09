@@ -1,6 +1,6 @@
 ---
 widget: experience
-widget_id: teaching
+widget_id: experience
 headless: true
 weight: 100
 title: Teaching
