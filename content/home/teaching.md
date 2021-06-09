@@ -11,14 +11,13 @@ experience:
     location: Los Angeles, CA, USA
     date_start: Spring21
     date_end: ""
-    description: |-2
+    description: ""
         
   - title: Teaching Assistant
     company: Keya Medical
     location: Beijing, China
     date_start: Winter21
     date_end: ""
-    description:
-        
+    description: ""
 widget_id: experience
 ---
