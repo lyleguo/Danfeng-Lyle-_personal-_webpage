@@ -1,4 +1,17 @@
-title: Courses
-layout: docs  # Do not modify.
+# Page title
+title: An Example Course
 
-Download {{< staticref "content/teaching/Spring21_CS161/slides/WK1_DIS1C.pdf" "newtab" >}}course material{{< /staticref >}}.
+# Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
+linktitle: Course
+
+# Page summary for search engines.
+summary: Blah, blah, blah...
+
+# Date page published
+date: 2018-09-09
+
+# Academic page type (do not modify).
+type: book
+
+# Position of this page in the menu. Remove this option to sort alphabetically.
+weight: 1
