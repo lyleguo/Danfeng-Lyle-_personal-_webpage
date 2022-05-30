@@ -6,6 +6,16 @@ title: Experience
 subtitle: null
 date_format: Jan 2006
 experience:
+  - title: Research Intern
+    company: Amazon.com Services LLC
+    company_url: "https://www.amazon.com"
+    location: Seattle, USA
+    date_start: 2021-06-15
+    date_end: 2021-10-15
+    description:
+        Frameworks for multimodal coreference resolution
+        * Designed Graphical VL-BERT model for multimodal coreference resolution task.
+        * Achieved 0.783 F1 score, which ranked the 1st in SIMMC 2.0 Subtask of DSTC10 Challenge.
   - title: PhD Researcher
     company: UCLA Computer Graphics & Vision Lab
     company_url: "http://gravilab.cs.ucla.edu"
@@ -21,7 +31,7 @@ experience:
     date_start: 2020-07-15
     date_end: 2020-10-20
     description:
-        Computer-aided diagnosis of brain hemorrhage
+        Computer-aided diagnosis based on medical images
         * Conducted rib fracture detection task and achieved over 81% accuracy.
         * Improved lung segmentation algorithm and successfully removed the disturbance of abnormal regions.
   - title: Algorithm Engineer
