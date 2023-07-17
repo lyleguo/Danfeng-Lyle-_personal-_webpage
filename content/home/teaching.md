@@ -6,6 +6,7 @@ title: Teaching
 subtitle: null
 date_format: Jan 2006
 experience:
+
   - title: Teaching Assistant
     company: CS174A Computer Graphics
     location: UCLA
