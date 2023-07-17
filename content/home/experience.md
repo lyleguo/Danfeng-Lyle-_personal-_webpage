@@ -11,7 +11,7 @@ experience:
     company_url: "https://www.amazon.com"
     location: Sunnyvale, USA
     date_start: 2023-06-15
-    date_end: Present
+    date_end: 2023-09-23
     description:
   - title: Research Intern
     company: Amazon.com Services LLC
