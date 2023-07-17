@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Danfeng(Lyle) Guo # Website name
-baseURL: 'https://stoic-ramanujan-44cd64.netlify.app/' # Website URL
+URL: 'https://stoic-ramanujan-44cd64.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
