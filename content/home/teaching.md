@@ -9,6 +9,16 @@ experience:
   - title: Teaching Assistant
     company: CS174A Computer Graphics
     location: UCLA
+    date_start: 2023-03-28
+    date_end: 2023-06-15
+  - title: Teaching Assistant
+    CS146 Introduction to Machine Learning
+    location: UCLA
+    date_start: 2023-01-03
+    date_end: 2023-03-25
+  - title: Teaching Assistant
+    company: CS174A Computer Graphics
+    location: UCLA
     date_start: 2022-03-28
     date_end: 2022-06-15
   - title: Teaching Assistant
