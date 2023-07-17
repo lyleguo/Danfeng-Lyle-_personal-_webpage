@@ -9,6 +9,23 @@ experience:
   - title: Research Intern
     company: Amazon.com Services LLC
     company_url: "https://www.amazon.com"
+    location: Sunnyvale, USA
+    date_start: 2023-06-15
+    date_end: Present
+    description:
+  - title: Research Intern
+    company: Amazon.com Services LLC
+    company_url: "https://www.amazon.com"
+    location: Seattle, USA
+    date_start: 2022-06-15
+    date_end: 2022-09-30
+    description:
+        Aspect-controlled referring expression generation using prompt
+        * Design a referring expression generation model and its aspects of generation can be controlled. It achieves 1.08 CIDEr score.
+        * Apply referring expression generation model for downstream datasets augmentation. Existing models trained with our synthetic data have accuracy close to the cases where they use real data.
+  - title: Research Intern
+    company: Amazon.com Services LLC
+    company_url: "https://www.amazon.com"
     location: Seattle, USA
     date_start: 2021-06-15
     date_end: 2021-10-15
